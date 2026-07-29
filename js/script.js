@@ -15,7 +15,7 @@ const BUSINESS = {
   address:
     "Alwar Bypass Rd, near Tirupati restaurant, near Havells, Saidpur, Bhiwadi, Rajasthan 301019",
   map:
-    "https://www.google.com/maps/search/?api=1&query=Samriddhi+Men%27s+Designer+Bhiwadi+Rajasthan+301019",
+    "https://maps.app.goo.gl/ioHjeTrEz5YiyXzD9",
   gstin: "08CUSPS9019R1Z8",
 };
 
