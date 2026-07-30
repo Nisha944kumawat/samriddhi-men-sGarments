@@ -9,7 +9,7 @@ const BUSINESS = {
   owner: "Rahul Kumar Singhania",
   phone: "8278608678",
   whatsapp: "918278608678",
-  email: "samriddhimensdesigner@gmail.com",
+  email: "samriddhigarments.shop",
   instagram: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
   address:
